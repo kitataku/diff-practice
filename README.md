@@ -2,3 +2,5 @@
 Git動画講座diff練習用
 
 rebase-practiceブランチ
+
+rebase用
